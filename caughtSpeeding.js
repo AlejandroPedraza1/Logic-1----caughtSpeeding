@@ -1,3 +1,4 @@
+//This is the answer for JavaScript!
 function caughtSpeeding(speed, isBirthday){
   if (isBirthday) {
     speed -= 5;
